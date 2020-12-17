@@ -37,8 +37,8 @@ Then, the website will show a screen for Python coding.
 If you can see the screen, Google Colaboratory has been enabled for you!
 
 
-## How do you enjoy hands-on coding in this lecture?
-Click each links on section "Content list" on this page. 
+### How do you enjoy hands-on coding in this lecture?
+Click each links on section "Content list" on this page (e.g. [User-based collaborative filtering](https://colab.research.google.com/github/trycycle/recommender-system-2020/blob/main/notebook/1c-user-based-cf.ipynb?hl=en)). 
 Then, you will see hands-on materials on Google Colaboratory.
 
 Almost all codes are ready to execute.
