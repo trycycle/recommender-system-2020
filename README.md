@@ -36,9 +36,6 @@ Please click it.
 Then, the website will show a screen for Python coding.
 If you can see the screen, Google Colaboratory has been enabled for you!
 
-Next, please move to [the Google Drive website](https://drive.google.com/drive/u/1/my-drive) to prepare material for this lecture.
-
-
 
 ## How do you enjoy hands-on coding in this lecture?
 Click each links on section "Content list" on this page. 
