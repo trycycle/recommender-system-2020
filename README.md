@@ -15,7 +15,7 @@ This page is about the course **data engineering** in the department of informat
 
 ## Slide materials
 1. [User-based collaborative filtering](https://scii-my.sharepoint.com/:b:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EfVsCzdgsGVFlfInBF-ibFABJCcmItQNQFURUCGqyfGjFg?e=LPv60u)
-2. Item-based collaborative filtering
+2. [Item-based collaborative filtering](https://scii-my.sharepoint.com/:b:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EfG8InqcBPBJtWGTon45tnUBLPwvejcOfW3SdZ3NBkg3PA?e=rKxjeD)
 3. Matrix Factorization
 4. Link analysis
 
