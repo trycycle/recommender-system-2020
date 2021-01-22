@@ -4,13 +4,13 @@ This page is about the course **data engineering** in the department of informat
 ## Content list
 1. [User-based collaborative filtering](https://colab.research.google.com/github/trycycle/recommender-system-2020/blob/main/notebook/1c-user-based-cf.ipynb?hl=en)
 2. [Item-based collaborative filtering](https://colab.research.google.com/github/trycycle/recommender-system-2020/blob/main/notebook/2c-item-based-cf.ipynb?hl=en)
-3. Matrix Factorization
-4. Link analysis
+3. [Matrix Factorization](https://colab.research.google.com/github/trycycle/recommender-system-2020/blob/main/notebook/3c-matrix-factorization.ipynb?hl=en)
+4. [Link analysis](https://colab.research.google.com/github/trycycle/recommender-system-2020/blob/main/notebook/4c-link-analysis.ipynb?hl=en)
 
 ## Sample answer to assignment
 1. [User-based collaborative filtering](https://colab.research.google.com/github/trycycle/recommender-system-2020/blob/main/notebook/1a-user-based-cf.ipynb?hl=en)
-2. Item-based collaborative filtering
-3. Matrix Factorization
+2. [Item-based collaborative filtering](https://colab.research.google.com/github/trycycle/recommender-system-2020/blob/main/notebook/2a-item-based-cf.ipynb?hl=en)
+3. Matrix Factorization (No assignments)
 4. Link analysis
 
 ## Slide materials
@@ -38,7 +38,7 @@ If you can see the screen, Google Colaboratory has been enabled for you!
 
 
 ### How do you enjoy hands-on coding in this lecture?
-Click each links on section "Content list" on this page (e.g. [User-based collaborative filtering](https://colab.research.google.com/github/trycycle/recommender-system-2020/blob/main/notebook/1c-user-based-cf.ipynb?hl=en)). 
+Click each links on section "Content list" on this page (e.g. [User-based collaborative filtering](https://colab.research.google.com/github/trycycle/recommender-system-2020/blob/main/notebook/1c-user-based-cf.ipynb?hl=en)).
 Then, you will see hands-on materials on Google Colaboratory.
 
 Almost all codes are ready to execute.
